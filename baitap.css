@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(245, 81, 110);
+}
+.navbar{
+  background-color: white !important;
+  font-weight: bold;
+}
+.navbar-brand{
+  font-size: 30px;
+}
+.container{
+  padding:100px 20px;
+}
+.form-check{
+  padding: 20px;
+}
